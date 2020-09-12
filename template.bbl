@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+
+\bibitem{Ahad2011}
+Md~Atiqur~Rahman Ahad, J~Tan, H~Kim, and S~Ishikawa.
+\newblock Action dataset—a survey.
+\newblock In {\em SICE Annual Conference 2011}, pages 1650--1655. IEEE, 2011.
+
+\bibitem{Bilen2016}
+Hakan Bilen, Basura Fernando, Efstratios Gavves, Andrea Vedaldi, and Stephen
+  Gould.
+\newblock Dynamic image networks for action recognition.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 3034--3042, 2016.
+
+\bibitem{Sigal2010}
+Leonid Sigal, Alexandru~O Balan, and Michael~J Black.
+\newblock Humaneva: Synchronized video and motion capture dataset and baseline
+  algorithm for evaluation of articulated human motion.
+\newblock {\em International journal of computer vision}, 87(1-2):4, 2010.
+
+\end{thebibliography}
